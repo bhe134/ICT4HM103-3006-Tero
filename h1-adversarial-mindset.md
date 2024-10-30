@@ -34,9 +34,9 @@ Further investigation at the MSP revealed that more of their customers had been 
 * Exploit: User credential theft of a single user at the MSP. malware, anti root kit software
 * Vulnerability: use of anti root kit software to execute malicious DLL software, windows storage of clear text passwords in memory
 * Business impact: Data theft interms of company secrets and patents., Loss of customers for the MSP company.
-* e) Voluntary bonus - fundamentals of security & theoretical foundations 
+## e) Voluntary bonus - fundamentals of security & theoretical foundations 
 I think that users’ behaviours and mannerisms do contribute to security incidents. Therefore, user security awareness campaign is an area that must be over emphasized in organizations so that users can be kept alert and aware of such occurrences of security incidents and attempts. For example, sending mock-up email attachments and links that users shouldn’t open can be one form of constant reminder in this user security awareness campaigns. One fundamental of security is to run security awareness campaigns all year round in organizations i.e. from short security web trainings to such email attachment and link mock-ups
-* f) Voluntary bonus - Cyber Kill Chain or MITRE ATT&CK
+## f) Voluntary bonus - Cyber Kill Chain or MITRE ATT&CK
 As a first time user of these two models, my position or argument is that these models are extensive in covering the phases. The mitre attack enterprise matrix is exhaustive with techniques and tactics for each phase. The kill chain offers the visibility of mapping the indicators to each phase for analysis. As I mentioned, these two are important and complement each other quite well. Maybe an addition to the model would be a separate phase for forensic analysis and reporting.
 # Install Debian on Virtualbox
 Installation steps for Debian.
