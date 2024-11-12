@@ -35,7 +35,9 @@ Add some string to the hello string and run the above command again:
 ![image](https://github.com/user-attachments/assets/7efba1b9-7457-4c48-bdaa-69924bcc6751)
 
 Adding zeros to the hash:
-????
+Multiple/numerous trial and error attempts to get a leading zero in the hash:
+
+![image](https://github.com/user-attachments/assets/6c810611-525b-42e8-9439-e68e49ea3bf6)
 
 ## b). Compare Hash
 An empty file named compare-hash.txt was created and the hash of the file computed. Next, another empty file named compare-hash2.txt was created. The has was computed. Next, the compare-hash.txt file was moved to compare-hash2.txt file and the hash computed for the file compare-hash2.txt. In all cases, the following can be observed:
