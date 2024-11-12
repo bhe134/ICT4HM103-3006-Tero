@@ -35,7 +35,7 @@ Add some string to the hello string and run the above command again:
 ![image](https://github.com/user-attachments/assets/7efba1b9-7457-4c48-bdaa-69924bcc6751)
 
 Adding zeros to the hash:
-Multiple/numerous trial and error attempts to get a leading zero in the hash:
+Adding a single leading zero was achieved through multiple/numerous trial and error attempts.Evidently, my assumption is that the difficulty raises exponentially for possible the character strings that will lead or results in an increase in the prceeding zeros on the hash value.
 
 ![image](https://github.com/user-attachments/assets/6c810611-525b-42e8-9439-e68e49ea3bf6)
 
