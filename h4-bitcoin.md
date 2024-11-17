@@ -50,3 +50,71 @@
 
 ## Reference
 Satoshi Nakamoto, Bitcoin: A Peer-to-Peer Electronic Cash System
+
+## a). Install electrum bitcoin testnet wallet. Create a BitCoin testnet wallet. 
+
+install the necessary dependencies
+
+![image](https://github.com/user-attachments/assets/cea1753c-12fa-495e-92b5-3a68757612ae)
+![image](https://github.com/user-attachments/assets/989b7839-d679-4d99-995b-240345916a4e)
+
+download the latest version of the Electrum wallet from the official website by using the wget command.
+The .tar.gz and .asc files already downloaded in the steps above.
+
+![image](https://github.com/user-attachments/assets/1a8d6622-dda2-470f-b0ed-9cff04ce77f3)
+![image](https://github.com/user-attachments/assets/0001d148-4d95-4397-a140-6cb1daaea176)
+
+Verify the GPG signature of the download
+![image](https://github.com/user-attachments/assets/4a376dc5-91e2-4813-9b05-1a8c2ab60384)
+
+Generate your own private key. No need to generate a private key. There is a private key from another exercise.
+![image](https://github.com/user-attachments/assets/3f6162b2-98dd-4495-9cf5-865100851349)
+
+Sign the electrum public key downloaded with the private key
+![image](https://github.com/user-attachments/assets/ca9833d6-24e2-4aa6-9713-ca8847f3ff92)
+
+We can now download the key file and verify the signature:
+![image](https://github.com/user-attachments/assets/f117a509-0262-463f-abc0-17b05a206b56)
+
+Install the application on your system
+![image](https://github.com/user-attachments/assets/1fb776f0-4a3d-4271-b0c2-d096e44d5b71)
+
+Problemo running the installation!
+![image](https://github.com/user-attachments/assets/87ce2215-848d-46ef-8969-54546f64afca)
+![image](https://github.com/user-attachments/assets/4d87429c-50fa-46eb-b37e-028b62323172)
+
+Installation
+![image](https://github.com/user-attachments/assets/58842450-4690-4eea-a2b6-aad4e606befa)
+![image](https://github.com/user-attachments/assets/5f22d68f-aefe-43f3-afd8-e496eb4ab928)
+![image](https://github.com/user-attachments/assets/6204bd4c-27cf-4e3b-946f-a05e9a65fc8e)
+![image](https://github.com/user-attachments/assets/277a2cd5-f0c8-4e52-bad7-830040db67f1)
+
+Start Electrum wallet
+![image](https://github.com/user-attachments/assets/e67421a0-17ca-4b06-97dd-03e0d6d7177f)
+
+Create a BitCoin testnet wallet
+![image](https://github.com/user-attachments/assets/e122ed26-6c62-434e-8072-5d3c9076b747)
+
+## Reference
+https://linuxconfig.org/how-to-install-electrum-bitcoin-wallet-on-debian-ubuntu-linux
+
+## b) Faucet. Get worthless fake money from a testnet Bitcoin faucet.
+Create a test request and copy the address
+![image](https://github.com/user-attachments/assets/0301b4f1-acf7-4a37-be4b-475d18adcc2a)
+
+Copy the address into the faucet for the test bitcoins and press get Get bitcoins.
+![image](https://github.com/user-attachments/assets/ebcd02d1-2b36-4028-9b8e-0aa6d9e4df1f)
+![image](https://github.com/user-attachments/assets/ea1a6994-841e-4309-a88f-9c957716c033)
+![image](https://github.com/user-attachments/assets/56a8b6f9-c11e-4a90-b2af-db176d82bcda)
+
+## c) Giveway. Move money to another Bitcoin wallet. Choose an amount where the last two digists are 73.
+
+## d) Recycle. Move the testnet money back to the same faucet you got it from.
+![image](https://github.com/user-attachments/assets/ac591975-4419-4d55-88ce-3231435eb38d)
+![image](https://github.com/user-attachments/assets/b0a1fae1-a518-4d2f-b3a9-247c62bf4610)
+
+## e) Explorer. Use a block explorer to analyze a block on the real Bitcoin blockchain
+
+## f) RogeCoin
+
+
