@@ -108,6 +108,11 @@ Copy the address into the faucet for the test bitcoins and press get Get bitcoin
 ![image](https://github.com/user-attachments/assets/56a8b6f9-c11e-4a90-b2af-db176d82bcda)
 
 ## c) Giveway. Move money to another Bitcoin wallet. Choose an amount where the last two digists are 73.
+ * I could get a way so that I could perform a list of other test wallets in electrum on the network to move money to.
+
+ * I attempted to create a second test wallet. However, Not sure how to send the money to the second test wallet. They seem to be a duplicate of a single test wallet.
+
+![image](https://github.com/user-attachments/assets/2e31bee7-c8d2-4a3b-98f5-d665e6bd18f5)
 
 ## d) Recycle. Move the testnet money back to the same faucet you got it from.
 ![image](https://github.com/user-attachments/assets/ac591975-4419-4d55-88ce-3231435eb38d)
@@ -115,6 +120,33 @@ Copy the address into the faucet for the test bitcoins and press get Get bitcoin
 
 ## e) Explorer. Use a block explorer to analyze a block on the real Bitcoin blockchain
 
+Open a block from blockchain.com/explorer
+The Bit coin Block number  871,177 was selected from the explorer: Some key details I could understand is the hash of the block, the value attached to this block, the no. Of transactions on this block, the date when this block was mined and the merkel root of the block.
+
+![image](https://github.com/user-attachments/assets/0089400a-7764-4c29-a77c-2108164b8f10)
+
+Taking one transaction on the right side of the window:
+![image](https://github.com/user-attachments/assets/05ff9374-d6cc-49aa-95b6-2a5f7b5e2b70)
+  
+  1.	From: This is the address the transaction originated from.
+  2.	To: This is the address the transaction output to.
+  3.	Amount: The amount of bitcoin sent.
+  4.	Fee: How much bitcoin was paid as a fee to the miner.
+  5.	How many 'confirmations' the transaction has. In this case only 1 transaction. In addition, the transaction is mentioned to be efficient and no issues were detected.
+
+## Reference:
+https://www.blockchain.com/explorer
+
+https://support.bitcoin.com/en/articles/4363796-how-to-use-a-bitcoin-blockchain-explorer#h_90345e2979
+
 ## f) RogeCoin
+ * Computer cash that is easier to lose.
+The argument here is that it can be lost if the users lose their wallet passwords, or if their hard drives where seeds or passwords for wallets are stored.
+ * Its is electricity intensive
+The presenter claims that to operate the rogecoin more electricity that is used in Switzerland is needed. And thus the operation is ecologically/environmentally unfriendly.
+ * The rogecoin has a limited number of goods and services that can be purchased using rogecoins. Infact the user makes the claim that they can purchase “heroin and feet pics”.
+
+## Reference
+https://www.youtube.com/watch?v=GUs5y9leCyA
 
 
